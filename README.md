@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanju30/Tanju30/blob/main/WhatsApp%20Image%202024-07-10%20at%2023.11.35_253890d1.jpg)
+![logo](https://github.com/Tanju30/Tanju30/blob/main/WhatsApp%20Image%202024-07-11%20at%2012.27.38_0bd93855.jpg)
 <h1 align="center">Hi 👋, I'm Tanjina Akter</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
