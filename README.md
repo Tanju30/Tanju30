@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanjina Akter</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThjc3MyOWh2cTQ2aXY4ZjVxdWxqaGtwdmFqaXZ5cnlkMjdubmk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanju30&label=Profile%20views&color=0e75b6&style=flat" alt="tanju30" /> </p>
 
